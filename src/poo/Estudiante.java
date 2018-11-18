@@ -23,7 +23,7 @@ package poo;
 
             setsalud("11%");
             
-            setocupacion("Pasante Ingenieria Electronica"); 
+            setocupacion("Pasante Ingenieria Electronica desde 2018"); 
         }
 
 

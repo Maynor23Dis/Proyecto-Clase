@@ -122,13 +122,13 @@ public class Persona {
         public void imprimirInformacion() {
             System.out.println("");
 
-            System.out.println("Nombre: " + nombre);
+            System.out.println("Nombre de la persona es: " + nombre);
 
-            System.out.println("Edad: " + edad);
+            System.out.println("La edad de la persona es: " + edad);
 
-            System.out.println("Altura: " + altura);
+            System.out.println("Altura en metros: " + altura);
 
-            System.out.println("Sexo: " + sexo);
+            System.out.println("Sexo de esta persona es: " + sexo);
 
             System.out.println("Indice de Grasa: " + salud);
             
