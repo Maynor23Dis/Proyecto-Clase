@@ -13,17 +13,17 @@ package poo;
 
         public Estudiante() {
 
-            setNombre("Maynor Alberto Discua Lagos");
+            setNombre("Siloe Galindo");
 
-            setEdad(19);
+            setEdad(20);
 
-            setAltura(1.83);
+            setAltura(1.68);
 
-            setSexo("Masculino");
+            setSexo("Femenino");
 
-            setsalud("11%");
+            setsalud("17%");
             
-            setocupacion("Pasante Ingenieria Electronica desde 2018"); 
+            setocupacion("Pasante Ingenieria Industrial desde 2015"); 
         }
 
 

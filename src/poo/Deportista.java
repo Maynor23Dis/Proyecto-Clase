@@ -13,17 +13,17 @@ public class Deportista extends Persona {
 
         public Deportista() {
 
-            setNombre("Inge Zaldivar");
+            setNombre("Maynor Discua");
 
-            setEdad(20);
+            setEdad(19);
 
-            setAltura(1.61);
+            setAltura(1.83);
 
-            setSexo("Femenin0");
+            setSexo("Masculino");
 
-            setsalud("15%");
+            setsalud("11%");
             
-            setocupacion("Running"); 
+            setocupacion("Boxeador peso welter"); 
         }
 
 
