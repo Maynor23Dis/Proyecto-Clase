@@ -13,7 +13,7 @@ package poo;
 
         public Estudiante() {
 
-            setNombre("Siloe Galindo");
+            setNombre("Inge Galindo Escoto");
 
             setEdad(20);
 
